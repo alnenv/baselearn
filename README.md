@@ -1,3 +1,6 @@
+# Use Remix for deploy all contract
+https://remix.ethereum.org/
+
 # Base Learn "NEW COMER"
 - https://docs.base.org/learn/deployment-to-testnet/deployment-to-testnet-exercise
 
